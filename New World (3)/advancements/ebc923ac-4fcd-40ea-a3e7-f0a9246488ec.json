@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2021-03-08 23:34:34 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2021-03-03 16:35:46 -0800"
@@ -1184,6 +1190,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2021-03-09 00:12:07 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2021-03-03 00:49:58 -0800"
@@ -1501,6 +1513,7 @@
       "sweet_berries": "2021-03-03 00:35:55 -0800",
       "cooked_beef": "2021-03-03 17:42:09 -0800",
       "baked_potato": "2021-03-03 14:59:31 -0800",
+      "spider_eye": "2021-03-09 01:06:13 -0800",
       "potato": "2021-03-07 02:47:54 -0800",
       "melon_slice": "2021-03-03 13:43:47 -0800",
       "carrot": "2021-03-08 13:56:30 -0800"
@@ -1671,6 +1684,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2021-03-09 00:01:20 -0800",
       "minecraft:cow": "2021-03-03 01:38:24 -0800",
       "minecraft:chicken": "2021-03-03 17:09:19 -0800"
     },
