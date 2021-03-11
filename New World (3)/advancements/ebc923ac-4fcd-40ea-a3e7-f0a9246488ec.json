@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2021-03-10 19:58:34 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2021-03-03 00:35:32 -0800"
@@ -356,6 +362,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-03-03 00:52:26 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2021-03-10 18:28:28 -0800"
     },
     "done": true
   },
@@ -458,6 +470,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2021-03-03 00:49:58 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2021-03-10 20:07:08 -0800"
     },
     "done": true
   },
@@ -598,6 +616,7 @@
       "minecraft:creeper": "2021-03-03 13:44:45 -0800",
       "minecraft:zombified_piglin": "2021-03-10 16:34:30 -0800",
       "minecraft:witch": "2021-03-07 01:43:42 -0800",
+      "minecraft:wither_skeleton": "2021-03-10 19:57:39 -0800",
       "minecraft:enderman": "2021-03-03 14:29:11 -0800",
       "minecraft:zombie": "2021-03-03 00:55:32 -0800",
       "minecraft:drowned": "2021-03-07 14:20:55 -0800"
@@ -748,6 +767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2021-03-10 18:28:28 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2021-03-03 00:54:41 -0800"
@@ -793,6 +818,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-03-03 01:40:03 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2021-03-10 18:28:28 -0800"
     },
     "done": true
   },
@@ -1186,6 +1217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2021-03-10 18:28:28 -0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2021-03-07 13:45:46 -0800",
@@ -1338,6 +1375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2021-03-10 18:28:28 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2021-03-03 00:54:41 -0800"
@@ -1437,6 +1480,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2021-03-10 16:39:44 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2021-03-10 18:28:28 -0800"
     },
     "done": true
   },
@@ -1843,6 +1892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2021-03-10 18:28:28 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2021-03-03 00:47:48 -0800"
@@ -1944,6 +1999,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2021-03-03 00:50:03 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2021-03-10 19:58:34 -0800"
     },
     "done": true
   },
@@ -2520,6 +2581,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-03-03 01:40:03 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2021-03-10 18:28:28 -0800"
     },
     "done": true
   },
